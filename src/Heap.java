@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// Реализация пирамидальной сортировки
+// Реализация пирамидальной сортировки NlogN
 public class Heap
 {
     public void sort(int arr[])
